@@ -7,7 +7,7 @@ return n * fact(n - 1);
 }
 
 int main(){
-int x = 5;
-printf("Factorial of %d is %d", x, fact(x));
+int num = 5;
+printf("Factorial of %d is %d", num, fact(num));
 return 0;
 }
